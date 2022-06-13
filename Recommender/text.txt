@@ -1,0 +1,1 @@
+This system uses both the user based and rating based methods to make recommendations of books
